@@ -1,5 +1,14 @@
 # 💫 About Me:
-my name is arsham<br>Im a junior back end developer<br>a computer software collegian<br>looking for new opportunities to gain more skills and experience.
+
+Arsham | Backend Developer in the Making
+
+🎓 Current Focus: Computer Software Collegian, building a strong foundation in software engineering principles.
+
+💻 Passionate About: Crafting clean, efficient, and scalable backend systems.
+
+🔍 Seeking: An internship or junior developer role to gain hands-on experience and contribute to a dynamic team.
+
+🚀 Goal: To learn from industry professionals and grow into a well-rounded, full-stack capable engineer.
 
 
 # 💻 Tech Stack:
