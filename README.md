@@ -4,7 +4,7 @@ Arsham | Backend Developer in the Making
 
 🎓 Current Focus: Computer Software Collegian, building a strong foundation in software engineering principles.
 
-💻 Passionate About: Crafting clean, efficient, and scalable backend systems.
+💻 Passionate About: Api's,websockets, efficient, and scalable backend systems.
 
 🔍 Seeking: An internship or junior developer role to gain hands-on experience and contribute to a dynamic team.
 
